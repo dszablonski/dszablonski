@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dszablonski
+- 👋 Hi, I’m Dominik EndeavourOS user
 - 👀 I’m interested in doing more coding and learning as much as possible.
 - 🌱 I’m currently learning C++, and I will soon be learning R and Python for Data Science soon in a research placement.
 - 💞️ I’m looking to collaborate on anything you think I'm competnant of!
